@@ -29,8 +29,8 @@ Software engineer building self-hosted platforms, system utilities, and full-sta
 Active development and primary repositories reside on our self-hosted **[Forgejo instance](https://git.codigosh.com)**. Public releases and mirrors are maintained here on GitHub.
 
 - **[CodigoSH Ecosystem](https://codigosh.com):** A suite of self-hosted, lightweight software built with a zero-telemetry, single-binary approach.
-  - **[Lastboard](https://github.com/CodigoSH/Lastboard):** Self-hosted personal dashboard and Proxmox/Docker monitoring engine.
-  - **Lastboard Agent:** Secure Docker bridge daemon in Go for isolated container control.
+  - **[Lastboard](https://github.com/CodigoSH/Lastboard):** A fast, private, self-hosted dashboard and startpage for your homelab — bookmarks, widgets, uptime monitoring, Docker and Proxmox, in a single binary.
+  - **[Lastboard Agent](https://github.com/CodigoSH/Lastboard-Agent):** Secure Docker bridge for Lastboard — monitor and control remote containers without exposing the Docker daemon.
   - **LastHelp:** Standalone feedback portal integrating with forge issue trackers.
 
 ---
