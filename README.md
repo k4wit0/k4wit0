@@ -31,7 +31,7 @@ Active development and primary repositories reside on our self-hosted **[Forgejo
 - **[CodigoSH Ecosystem](https://codigosh.com):** A suite of self-hosted, lightweight software built with a zero-telemetry, single-binary approach.
   - **[Lastboard](https://github.com/CodigoSH/Lastboard):** A fast, private, self-hosted dashboard and startpage for your homelab — bookmarks, widgets, uptime monitoring, Docker and Proxmox, in a single binary.
   - **[Lastboard Agent](https://github.com/CodigoSH/Lastboard-Agent):** Secure Docker bridge for Lastboard — monitor and control remote containers without exposing the Docker daemon.
-  - **LastHelp:** Standalone feedback portal integrating with forge issue trackers.
+  - **[LastHelp](https://github.com/CodigoSH/LastHelp):** Self-hosted feedback portal that speaks to your forge. Single binary, no account needed to report, and accepted items become real issues in GitHub, GitLab, Forgejo or Gitea.
 
 ---
 
